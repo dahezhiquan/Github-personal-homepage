@@ -37,9 +37,8 @@
 
 这是该项目中提供的模板之一的预览：
 
-<p align="center">
-  <img src="模板预览.png" alt="模板预览" width="800">
-</p>
+![微信截图_20230704161850](https://github.com/dahezhiquan/Github-personal-homepage/assets/76278560/9c872155-5719-4cfa-a161-eccd1b64d5ab)
+
 
 ## 贡献
 
