@@ -52,4 +52,9 @@
 
 觉得这些模板有用吗？[给我买杯咖啡 ☕](#)
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76278560/250815119-ce58e515-eff6-4358-ba89-4b96d18882c7.jpg" alt="微信收款码" width="200" height="260">
+</p>
+
 在CSDN上与我联系：[世界尽头与你](https://blog.csdn.net/Gherbirthday0916?spm=1000.2115.3001.5343)
