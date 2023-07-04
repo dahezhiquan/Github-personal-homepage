@@ -4,9 +4,8 @@
 
 > 一个收集了精心设计和整理的GitHub个人主页README模板的项目，让你的个人主页更加独特和专业！
 
-<p align="center">
-  <img src="个人主页截图.png" alt="个人主页截图" width="800">
-</p>
+![image](https://github.com/dahezhiquan/Github-personal-homepage/assets/76278560/93701e5b-4263-4aec-ad44-b3712fb50688)
+
 
 ## 介绍
 
